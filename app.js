@@ -22,6 +22,13 @@ const shops = [
     category: 'Coffee',
     image: 'starbucks-card.jpeg',
     notes: 'Starbucks rewards barcode'
+  },
+  {
+    id: 'pc-optimum',
+    name: 'PC Optimum',
+    category: 'Grocery',
+    image: 'pc-optimum-card.jpeg',
+    notes: 'PC Optimum points card'
   }
 ];
 
